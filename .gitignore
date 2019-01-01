@@ -1,2 +1,6 @@
 /Project/DeepSpaceDive/Library
 /Project/DeepSpaceDive/Packages
+/Project/DeepSpaceDive/.vs
+
+*.csproj
+*.meta
